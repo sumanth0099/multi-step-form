@@ -32,8 +32,8 @@ https://youtu.be/b-Jh7zOG5Gk
 ## Installation & Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multi-step-registration-form.git
-cd multi-step-registration-form
+git clone https://github.com/sumanth0099/multi-step-form.git
+cd multi-step-form
 npm install
 npm start
 
